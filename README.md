@@ -1,5 +1,5 @@
 -# Checkbook-Keeper
--![CP Inc](/CPInc.png "CP Inc")
+-![CP Inc](/Images/CPInc.png "CP Inc")
 -
 -# Description
 -
